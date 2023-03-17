@@ -9,10 +9,13 @@ make ou make bonus
 
 ### so_long
 ```bash
-./so_long maps/map
+./so_long maps/maps.ber
 ```
+
+
+
 
 ### so_long bonus
 ```bash
-./so_long maps/mapbonus.ber
+./so_long maps/mapsbonus.ber
 ```

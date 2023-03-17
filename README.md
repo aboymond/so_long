@@ -1,9 +1,18 @@
 # so_long
 
-# Compiler:
+## Compiler:
 
 ```bash
-make ou make re
+make ou make bonus
 ```
-# Lancer le programme:
+## Lancer le programme:
 
+### so_long
+```bash
+./so_long maps/map
+```
+
+### so_long bonus
+```bash
+./so_long maps/mapbonus.ber
+```

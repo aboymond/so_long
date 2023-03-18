@@ -12,7 +12,7 @@ make ou make bonus
 ./so_long maps/maps.ber
 ```
 
-![](./sprites/Screen Shot 2023-03-17 at 5.05.35 PM.png)
+![](/sprites/Screen Shot 2023-03-17 at 5.05.35 PM.png)
 
 
 ### so_long bonus

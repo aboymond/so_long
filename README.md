@@ -19,3 +19,5 @@ make ou make bonus
 ```bash
 ./so_long maps/mapsbonus.ber
 ```
+
+![image](https://github.com/aboymond/so_long/blob/master/sprites/Screen%20Shot%202023-03-17%20at%205.06.12%20PM.png)
